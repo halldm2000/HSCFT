@@ -1,0 +1,10 @@
+NumLiquids  2
+    COMPOSITION  ./Composition_sB.txt
+    GEOMETRY     ./Geom_FullVolume.txt
+    COMPOSITION  ./Composition_sA.txt
+    GEOMETRY     ./Geom_DropShape.txt
+NumSolids 1
+    COMPOSITION  ./Composition_sB.txt
+    GEOMETRY     ./Geom_BottomWall.txt
+    MOTION	 ./Motion_Fixed.txt
+    DUPLICATES   1

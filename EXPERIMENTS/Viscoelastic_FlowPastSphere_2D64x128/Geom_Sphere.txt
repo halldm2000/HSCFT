@@ -1,0 +1,4 @@
+numberOfOperations  1
+SPHERE 0.99
+    Center    0.5 0.75 0.5
+    Radius    5.00   

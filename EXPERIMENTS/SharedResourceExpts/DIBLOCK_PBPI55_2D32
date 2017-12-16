@@ -1,0 +1,6 @@
+DATA_DIRECTORY      /Users/administrator/Data/HSCFT_CopolymerMelts_Data
+MATERIALS_DIRECTORY /Users/administrator/Code/HSCFT_CopolymerMelts/MATERIALS
+COMPOSITION_FILE    /Users/administrator/Code/HSCFT_CopolymerMelts/COMPOSITIONS/DIBLOCK_PBPI_55
+COPOLYMER_DIRECTORY /Users/administrator/Code/HSCFT_CopolymerMelts/COPOLYMERS
+RUN_PARAMETER_FILE  /Users/administrator/Code/HSCFT_CopolymerMelts/RUN_PARAMETERS/run2Dgp32.txt
+OUTPUT_PREFS_FILE   /Users/administrator/Code/HSCFT_CopolymerMelts/OUTPUT_PREFERENCES/OutputScalarFields.txt

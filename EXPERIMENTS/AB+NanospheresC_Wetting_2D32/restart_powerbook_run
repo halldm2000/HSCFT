@@ -1,0 +1,7 @@
+#!/bin/bash
+# To be run in the STARTUP_FILES directory in the data folder
+command=../../../../CODE/HSCFT/hscft_g4
+expt=$(pwd)/Experiment.txt
+restart_dir=$(pwd)/..
+$command -r $restart_dir -x $expt
+echo -en "\e]0;$(pwd)\a"

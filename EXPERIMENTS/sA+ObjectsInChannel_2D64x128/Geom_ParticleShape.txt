@@ -1,0 +1,6 @@
+numberOfOperations  1
+BITMAP 0.99
+Path    ./Bitmap_ParticleShape.txt
+Size    34   35
+Center  0.5 0.5 0.5
+

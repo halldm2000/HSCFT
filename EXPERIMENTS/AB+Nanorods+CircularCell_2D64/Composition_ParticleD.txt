@@ -1,0 +1,3 @@
+NUM_COMPONENTS  1
+MOLECULE1      ./Particle_D.txt
+LAMBDA          1.00

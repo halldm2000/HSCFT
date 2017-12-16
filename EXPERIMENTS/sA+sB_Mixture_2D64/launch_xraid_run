@@ -1,0 +1,7 @@
+#!/bin/bash
+#!/bin/bash
+echo -en "\e]0;$(pwd)\a"command=$(pwd)/../../hscft_g5
+dest_dir=$(pwd)/../../../../DATA/HSCFT_DATA/
+expt=$(pwd)/Experiment.txt
+echo $command -x $expt -d $dest_dir
+$command -x $expt -d $dest_dir

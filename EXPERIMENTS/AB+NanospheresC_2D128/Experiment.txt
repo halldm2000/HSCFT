@@ -1,0 +1,5 @@
+DESCRIPTION         AB+Nanospheres_2D128
+RUN_PARAMETER_FILE  ./RunParameters.txt
+SYSTEM_FILE         ./System.txt
+FLORY_PARAMS_FILE   ./FloryParameters.txt
+OUTPUT_PREFS_FILE   ./OutputPreferences.txt

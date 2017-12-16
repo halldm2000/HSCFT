@@ -1,0 +1,6 @@
+numberOfOperations  1
+BITMAP 0.95
+Path    ./Bitmap_HSCFT.txt
+Size    123   27
+Center  0.5 0.5 0.5
+

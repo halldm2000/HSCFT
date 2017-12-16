@@ -1,0 +1,4 @@
+#!/bin/bash
+echo -en "\e]0;$(pwd)\a"
+command=qsub fenris_jobscript
+tail -f outputfile.txt

@@ -1,0 +1,6 @@
+#!/bin/bash
+echo -en "\e]0;$(pwd)\a"
+command="/Users/administrator/Code/HSCFT/hscft_g4"
+dest_dir="/Users/administrator/Data/HSCFT_DATA/"
+expt=$(pwd)/Experiment.txt
+$command -x $expt -d $dest_dir

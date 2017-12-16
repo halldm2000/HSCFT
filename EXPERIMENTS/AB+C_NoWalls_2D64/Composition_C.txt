@@ -1,0 +1,3 @@
+NUM_COPOLYMERS  1
+COPOLYMER1      ./Polymer_C.txt
+LAMBDA          1.0

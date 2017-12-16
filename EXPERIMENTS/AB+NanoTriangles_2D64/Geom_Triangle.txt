@@ -1,0 +1,4 @@
+numberOfOperations  1
+TRIANGLE     0.99 
+    Center   0.50 0.50 0.50
+    Width    0.35 0.35 1.00

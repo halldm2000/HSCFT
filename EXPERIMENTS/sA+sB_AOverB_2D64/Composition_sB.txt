@@ -1,0 +1,3 @@
+NUM_COPOLYMERS  1
+MOLECULE1      ./Fluid_B.txt
+LAMBDA          1.00

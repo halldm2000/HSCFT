@@ -1,0 +1,6 @@
+MATERIAL_NAME       Material_A
+SHEAR_MODULUS       0
+BULK_MODULUS        0
+FRICTION_COEFF      1.0
+DENSITY             0.0
+VISCOSITY           0.01

@@ -1,0 +1,4 @@
+NUM_COPOLYMERS  2
+MOLECULE1      ./Fluid_A.txt
+MOLECULE2      ./Fluid_B.txt
+LAMBDA          0.50    0.50

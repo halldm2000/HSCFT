@@ -1,0 +1,6 @@
+Material_A,Material_B 0.016
+Material_A,Material_C 0.000
+Material_B,Material_C 0.005
+Material_A,Material_D 0.000
+Material_B,Material_D 0.016
+Material_C,Material_D 0.000

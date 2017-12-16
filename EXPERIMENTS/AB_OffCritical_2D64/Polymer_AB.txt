@@ -1,0 +1,10 @@
+NUM_BLOCKS      2
+NUM_MONOMERS    2
+BLOCK_RATIOS    0.3 0.7
+LINE_DENSITY1   1   0
+LINE_DENSITY2   0   1		
+POLYMER_LENGTH  1000
+Ne              1000
+ROUSE_TIME_Ne   1
+MATERIAL1       ./Material_A.txt
+MATERIAL2       ./Material_B.txt

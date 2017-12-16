@@ -1,0 +1,4 @@
+numberOfOperations  1
+RECTANGLE       0.99 
+    BoxCenter       0.5 0.05
+    BoxWidth        1.0 0.10

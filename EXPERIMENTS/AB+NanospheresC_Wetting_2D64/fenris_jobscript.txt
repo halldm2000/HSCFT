@@ -1,0 +1,19 @@
+#!/bin/sh
+#PBS -S /bin/sh
+#PBS -N AB+NanospheresC_Wetting_2D64 
+#PBS -q long
+#PBS -l nodes=1:ppn=1 
+#PBS -V
+#PBS -M halldm@lanl.gov
+#PBS -m ae
+
+command=$HOME/CODE/HSCFT/hscft_athlon64
+dest_dir=$HOME/DATA/HSCFT_DATA/
+expt_dir=$PBS_O_WORKDIR
+expt=$expt_dir/Experiment.txt
+
+echo "cd $PBS_O_WORKDIR"
+cd $expt_dir
+
+echo "$command -x $expt -d $dest_dir"
+$command -x $expt -d $dest_dir >& outputfile.txt

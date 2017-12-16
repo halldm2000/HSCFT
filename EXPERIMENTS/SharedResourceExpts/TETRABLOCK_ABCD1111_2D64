@@ -1,0 +1,7 @@
+DATA_DIRECTORY      /Users/administrator/Data/HSCFT_CopolymerMelts_Data
+MATERIALS_DIRECTORY /Users/administrator/Code/HSCFT_CopolymerMelts/MATERIALS/THEORETICAL
+MATERIALS_DIRECTORY /Users/administrator/Code/HSCFT_CopolymerMelts/MATERIALS/THEORETICAL/FLORY_PARAMETERS
+COMPOSITION_FILE    /Users/administrator/Code/HSCFT_CopolymerMelts/COMPOSITIONS/THEORETICAL/TETRABLOCKABC1111
+COPOLYMER_DIRECTORY /Users/administrator/Code/HSCFT_CopolymerMelts/COPOLYMERS/THEORETICAL/
+RUN_PARAMETER_FILE  /Users/administrator/Code/HSCFT_CopolymerMelts/RUN_PARAMETERS/run2Dgp32.txt
+OUTPUT_PREFS_FILE   /Users/administrator/Code/HSCFT_CopolymerMelts/OUTPUT_PREFERENCES/OutputScalarFields.txt

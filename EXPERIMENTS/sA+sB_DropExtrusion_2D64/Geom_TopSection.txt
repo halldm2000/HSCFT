@@ -1,0 +1,4 @@
+numberOfOperations  1
+BOX     0.99 
+    BoxCenter   0.50 0.80 0.50
+    BoxWidth    1.00 0.40 1.00

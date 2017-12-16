@@ -1,0 +1,7 @@
+numberOfOperations  2
+BOX	0.99
+    Center	0.50 0.50 0.50
+    Width	1.00 1.00 1.00
+SPHERE  0.00 
+    Center      0.50 0.50 0.50
+    Radius    	7.5

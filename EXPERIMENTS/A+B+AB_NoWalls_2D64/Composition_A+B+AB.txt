@@ -1,0 +1,5 @@
+NUM_COPOLYMERS  3
+POLYMER1      ./Polymer_A.txt
+POLYMER2      ./Polymer_B.txt
+POLYMER3      ./Polymer_AB.txt
+LAMBDA          0.35    0.35	0.30

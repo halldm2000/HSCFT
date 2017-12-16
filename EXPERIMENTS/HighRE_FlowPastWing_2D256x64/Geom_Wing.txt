@@ -1,0 +1,6 @@
+numberOfOperations  1
+BITMAP 0.99
+Path    ./Bitmap_Wing.txt
+Size    9   113
+Center  0.75 0.70 0.50
+

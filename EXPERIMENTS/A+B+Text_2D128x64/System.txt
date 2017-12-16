@@ -1,0 +1,6 @@
+NumLiquids  2
+    COMPOSITION  ./Composition_C.txt
+    GEOMETRY     ./Geom_FullVolume.txt
+    COMPOSITION  ./Composition_A+B.txt
+    GEOMETRY     ./Geom_Text_HSCFT.txt
+NumSolids   0

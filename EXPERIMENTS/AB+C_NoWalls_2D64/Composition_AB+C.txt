@@ -1,0 +1,4 @@
+NUM_COPOLYMERS  2
+COPOLYMER1      ./Polymer_AB.txt
+COPOLYMER2      ./Polymer_C.txt
+LAMBDA          60 	40

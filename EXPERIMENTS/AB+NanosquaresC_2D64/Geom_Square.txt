@@ -1,0 +1,4 @@
+numberOfOperations  1
+BOX     0.99 
+    Center   0.50 0.50 0.50
+    Width    0.30 0.30 1.00

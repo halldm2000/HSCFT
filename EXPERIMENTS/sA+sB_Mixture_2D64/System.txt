@@ -1,0 +1,4 @@
+NumLiquids  1
+    COMPOSITION  ./Composition_sA+sB.txt
+    GEOMETRY     ./Geom_FullVolume.txt
+NumSolids 0
